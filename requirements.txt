@@ -1,0 +1,5 @@
+ddapi==0.2.5
+pytz==2016.7
+requests==2.11.1
+argparse==1.4.0
+uuid==1.30
